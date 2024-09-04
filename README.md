@@ -66,11 +66,3 @@ Hello, World!
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Replace `your-username` and `your-repository-name` with your actual GitHub username and repository name. You can also add more details or examples to each script's description if needed.
